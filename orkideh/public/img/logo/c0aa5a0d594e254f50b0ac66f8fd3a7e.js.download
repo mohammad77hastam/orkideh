@@ -1,0 +1,3 @@
+const openSideCart=()=>{elementorProFrontend.modules.popup.showPopup({id:732})}
+var getCartAjax=!1
+;
