@@ -13,6 +13,7 @@ function Tab() {
           <div className="m-2  mt-[20px] text-2xl"><PiShoppingCartLight /></div>
         </div>
       </div>
+      <div className="w-[98%] m-auto h-[1px] bg-gray-300"></div>
     </>
   )
 }
